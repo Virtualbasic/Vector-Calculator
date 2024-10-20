@@ -1,0 +1,11 @@
+//double V1[3] = {1,5,-2};
+//double V2[3] = {3,2,4};
+//double V3[3] = {-2,7,9};
+//double Scalar  = 5;
+//int SizeOFVEC = 3;
+//double* W = adding_vectors(V1,  V2, SizeOFVEC);
+//prezentation(W, SizeOFVEC);
+//scalar_multiplication(V1,  Scalar, SizeOFVEC);
+//prezentation(V1, SizeOFVEC);
+//vector_product(V1, V2, SizeOFVEC, 5);
+//mixed_product(Vectors[0], Vectors[1], Vectors[2], SizeOFVEC);
