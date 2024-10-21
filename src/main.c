@@ -17,7 +17,6 @@ int main(){
         double** Vectors = malloc(howm * sizeof(double)); 
         while (1){
             if (howm == 2  || howm == 3){
-                printf("in");
                 break;
             }
             printf("ener 2 or 3 vectors\n\n");
